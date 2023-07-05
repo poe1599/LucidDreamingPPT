@@ -1,0 +1,16 @@
+// global PTT style
+*,
+*::before,
+*::after{
+  text-align: left;
+}
+
+li:not(:last-child){
+  margin-bottom: 0.25em;
+}
+
+:root{
+  --r-main-font-size: 36px;
+  --r-heading-text-transform: capitalize;
+  --r-heading-letter-spacing: 0.5px;
+}
