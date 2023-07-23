@@ -11,6 +11,7 @@
       <StrartTrip></StrartTrip>
       <PackYourBags></PackYourBags>
       <ArrivedDestination></ArrivedDestination>
+      <ExploreNewWorld></ExploreNewWorld>
     </div>
   </div>
 </template>
@@ -30,6 +31,7 @@ import { onMounted } from 'vue'
 // chapters
 // import RevealSectionExample from './components/RevealSectionExample.vue'
 import ArrivedDestination from '@/chapters/arrivedDestination/index.vue'
+import ExploreNewWorld from '@/chapters/exploreNewWorld/index.vue'
 import PackYourBags from '@/chapters/packYourBags/index.vue'
 import Preamble from '@/chapters/preamble/index.vue'
 import StrartTrip from '@/chapters/strartTrip/index.vue'
