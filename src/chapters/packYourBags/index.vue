@@ -29,6 +29,9 @@
 ### 那麼，意念是什麼?
 
 所謂意念，就是目的、目標，針對特定行動的定向思維。
+
+<div class="compass top-[-8vh] right-[50vh]"></div>
+
 ----
 ### 思想的力量
 
@@ -305,10 +308,8 @@
 </template>
 <script>
 export default {
-  name: 'PackYourBags'
+  name: 'PackYourBags',
 }
 </script>
-<script setup>
-</script>
-<style lang="css" scoped>
-</style>
+<script setup></script>
+<style lang="css" scoped></style>

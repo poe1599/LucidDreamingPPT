@@ -42,4 +42,5 @@ onMounted(async () => {
 
 <style lang="scss">
 @import '@/scss/ptt';
+@import '@/scss/compass';
 </style>
