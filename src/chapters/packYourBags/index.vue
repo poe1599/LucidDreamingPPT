@@ -30,7 +30,7 @@
 
 所謂意念，就是目的、目標，針對特定行動的定向思維。
 
-<div class="compass top-[-8vh] right-[50vh]"></div>
+<div class="compass top-[-8vh] right-[50%]"></div>
 
 ----
 ### 思想的力量
