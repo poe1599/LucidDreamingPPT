@@ -13,6 +13,10 @@
       <ArrivedDestination />
       <ExploreNewWorld />
       <FamiliarWithTheTerrain />
+      <section>
+        <h2 class="text-center">The End</h2>
+        <img class="text-center block mx-auto" :style="{ margin: 'auto' }" src="@/assets/imgs/dreamDog.jpg" alt="" />
+      </section>
     </div>
   </div>
 </template>
