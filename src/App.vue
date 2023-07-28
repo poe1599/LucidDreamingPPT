@@ -7,11 +7,16 @@
   <div class="reveal">
     <div class="slides">
       <!-- <RevealSectionExample></RevealSectionExample> -->
-      <Preamble></Preamble>
-      <StrartTrip></StrartTrip>
-      <PackYourBags></PackYourBags>
-      <ArrivedDestination></ArrivedDestination>
-      <ExploreNewWorld></ExploreNewWorld>
+      <Preamble />
+      <StrartTrip />
+      <PackYourBags />
+      <ArrivedDestination />
+      <ExploreNewWorld />
+      <FamiliarWithTheTerrain />
+      <section>
+        <h2 class="text-center">The End</h2>
+        <img class="text-center block mx-auto" :style="{ margin: 'auto' }" src="@/assets/imgs/dreamDog.jpg" alt="" />
+      </section>
     </div>
   </div>
 </template>
@@ -32,6 +37,7 @@ import { onMounted } from 'vue'
 // import RevealSectionExample from './components/RevealSectionExample.vue'
 import ArrivedDestination from '@/chapters/arrivedDestination/index.vue'
 import ExploreNewWorld from '@/chapters/exploreNewWorld/index.vue'
+import FamiliarWithTheTerrain from '@/chapters/familiarWithTheTerrain/index.vue'
 import PackYourBags from '@/chapters/packYourBags/index.vue'
 import Preamble from '@/chapters/preamble/index.vue'
 import StrartTrip from '@/chapters/strartTrip/index.vue'
